@@ -11,8 +11,8 @@ const Certifications: React.FC = () => {
       description: "Validates the ability to deploy applications, monitor operations, and maintain cloud projects on Google Cloud Platform",
       link: "https://www.credential.net/2d278bc5-9bff-4f92-81a3-06157f0bc8ff#acc.E0L5AXNP",
       //image: "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg",
-      //image: "public/gcp.png",
-      image: "public/Google.png",
+      //image: "/gcp.png",
+      image: "/Google.png",
       badgeColor: "blue"
     },
     {
@@ -22,7 +22,7 @@ const Certifications: React.FC = () => {
       description: "Demonstrates expertise in implementing DevOps practices, automating infrastructure and deployments, and implementing application infrastructure",
       link: "https://www.credly.com/badges/c52b415a-03bb-496e-9a75-745a5b681a71/",
       //image: "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg",
-      image: "public/Microsoft.png",
+      image: "/Microsoft.png",
       badgeColor: "indigo"
     },
     {
@@ -32,7 +32,7 @@ const Certifications: React.FC = () => {
       description: "Confirms knowledge of ServiceNow platform functionality and foundational processes for managing service management applications",
       link: "https://drive.google.com/file/d/1EO_JH3CUBusEkHA4fqsR5M7lqDgsunUL/view?usp=drive_link",
       image: "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg",
-      //image: "public/ServiceNow.png",
+      //image: "/ServiceNow.png",
       badgeColor: "green"
     },
     {
@@ -42,7 +42,7 @@ const Certifications: React.FC = () => {
       description: "Validates knowledge of multicloud networking architecture, capabilities, and operational best practices",
       link: "https://www.credly.com/badges/7fad3665-5153-4993-9cb2-8fc8c28a4255",
       //image: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
-      image: "public/Aviatrix.png",
+      image: "/Aviatrix.png",
       badgeColor: "purple"
     },
     {
@@ -52,7 +52,7 @@ const Certifications: React.FC = () => {
       description: "Demonstrates knowledge of network security principles, tools, and best practices for protecting organizational infrastructure",
       image: "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg",
       link: "https://drive.google.com/file/d/176hjpSwwVZa3is5BAUY8drxOXEkzfolY/view?usp=sharing",
-      //image: "public/CNSP.png",
+      //image: "/CNSP.png",
       badgeColor: "red"
     },
   ];
