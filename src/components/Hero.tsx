@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
     <section 
   id="home" 
   ref={heroRef}
-  className="relative min-h-screen overflow-hidden bg-gradient-to-br from-indigo-50 to-blue-50 bg-[url('/public/wp.png')] bg-cover bg-center bg-no-repeat flex items-center"
+  className="relative min-h-screen overflow-hidden bg-gradient-to-br from-indigo-50 to-blue-50 bg-[url('/wp.png')] bg-cover bg-center bg-no-repeat flex items-center"
   style={{
     '--mouse-x': '0.5',
     '--mouse-y': '0.5',
