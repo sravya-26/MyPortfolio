@@ -23,15 +23,17 @@ const Hero: React.FC = () => {
   }, []);
 
   return (
-    <section 
-  id="home" 
-  ref={heroRef}
-  className="relative min-h-screen overflow-hidden bg-gradient-to-br from-indigo-50 to-blue-50 bg-[url('/wp.png')] bg-cover bg-center bg-no-repeat flex items-center"
-  style={{
-    '--mouse-x': '0.5',
-    '--mouse-y': '0.5',
-  } as React.CSSProperties}
->
+    <section
+      id="home"
+      ref={heroRef}
+      className="relative min-h-screen overflow-hidden bg-cover bg-center bg-no-repeat flex items-center"
+      style={{
+        '--mouse-x': '0.5',
+        '--mouse-y': '0.5',
+        backgroundImage: "linear-gradient(to bottom right, #eef2ff, #dbeafe), url('/wp.png')"
+      } as React.CSSProperties}
+    >
+
   {/* 🔧 Background Overlay (DO NOT cover content) */}
   <div className="absolute inset-0 bg-white opacity-70 z-0 pointer-events-none"></div>
 

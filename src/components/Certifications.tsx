@@ -12,6 +12,7 @@ const Certifications: React.FC = () => {
       link: "https://www.credential.net/2d278bc5-9bff-4f92-81a3-06157f0bc8ff#acc.E0L5AXNP",
       //image: "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg",
       //image: "/gcp.png",
+      //image: "public/gcp.png",
       image: "/Google.png",
       badgeColor: "blue"
     },
