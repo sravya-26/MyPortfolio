@@ -55,14 +55,14 @@ const Hero: React.FC = () => {
 
       {/* Buttons */}
       <div className="flex flex-wrap gap-4">
-            <a 
+{/*             <a 
               href="/Sravya Koyi Resume.pdf" 
               download="Sravya Koyi Resume"
               className="px-6 py-3 bg-indigo-600 text-white rounded-md hover:bg-indigo-700 transition-colors focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 flex items-center gap-2"
             >
               <Download size={20} />
               Download Resume
-            </a>
+            </a> */}
 
             <a 
               href="#projects" 
