@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { Github, Linkedin, ExternalLink, Download } from 'lucide-react';
-import VisitorCounter from './VisitorCounter';
+// import VisitorCounter from './VisitorCounter';
 
 
 const Hero: React.FC = () => {
@@ -81,7 +81,7 @@ const Hero: React.FC = () => {
               Contact Me
             </a>
 
-            <VisitorCounter /> {/* 👁️ Counter sits nicely here */}
+            {/* <VisitorCounter />  */}
           </div>
 
       {/* Socials */}
