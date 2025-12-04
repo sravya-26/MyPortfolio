@@ -48,13 +48,12 @@ const Hero: React.FC = () => {
         Sravya Koyi
       </h1>
       <h2 className="text-xl md:text-2xl text-gray-700 font-medium mb-6">
-        Software Engineer at Walgreens
+        Software Engineer at Walgreens Boots Alliance
       </h2>
       <p className="text-gray-600 mb-8 max-w-lg">
-        I’m a Software Engineer at Walgreens, where I design, build, and optimize scalable 
-        software solutions that support critical pharmacy technology systems. I’m passionate 
-        about creating reliable, high-impact applications, improving system efficiency, and 
-        continuously exploring emerging technologies to enhance product performance and user experience.
+        I am currently working on the DSCSA (Drug Supply Chain Security Act) project, focused on enhancing 
+        pharmacy supply chain security and compliance. I’m passionate about continuously exploring emerging 
+        technologies to enhance product performance and user experience.
       </p>
 
       {/* Buttons */}
