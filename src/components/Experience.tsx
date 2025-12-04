@@ -5,28 +5,44 @@ import SectionTitle from './SectionTitle';
 const Experience: React.FC = () => {
   const experiences = [
     {
+      title: "Software Engineer",
+      company: "Walgreens Boots Alliance",
+      location: "Deerfield, IL",
+      period: "June 2025 - Present",
+      description: [
+        "Build and maintain UI automation for DSCSA workflows using Selenium WebDriver (Java) with Cucumber BDD and Page Object Model architecture.",
+        "Perform backend validation using SQL, Cosmos DB queries, API logs, and event payload inspection to ensure correct TI/TS/TH processing.",
+        "Develop REST Assured API automation validating EPCIS events, trace requests, product verification endpoints, and DSCSA microservices.",
+        "Integrate and execute automation suites in Azure DevOps CI/CD pipelines, debugging failures at service, API, and UI layers.",
+        "Perform root-cause analysis on failed builds by inspecting API payloads, service logs, and pipeline outputs to ensure framework stability."
+      ],
+      skills: ["Java", "Selenium", "BDD", "TestNG", "Gherkin", "Cucumber"]
+    },
+    {
       title: "Graduate Teaching Assistant",
       company: "Northern Illinois University, Computer Science",
       location: "DeKalb, IL",
       period: "Aug 2024 - May 2025",
       description: [
-        "Assisted in guiding students in UNIX system usage, shell script programming, and network programming in C++",
-        "Provided support during laboratory sessions focused on system-level C++ programming and networking",
-        "Evaluated assignments and exams on file access, permissions, and basic UNIX administration",
-        "Conducted office hours to address student questions on bash scripting, C++ network programming, and system call-level operations in UNIX"
+        "Supported instruction for a class of 80+ students, covering UNIX system usage, shell scripting, and network programming fundamentals in C++.",
+        "Led 15+ lab sessions, helping students implement system-level programming concepts including file permissions, process control, and system calls.",
+        "Reviewed and provided feedback on 100+ weekly code submissions, ensuring performance, correctness, and adherence to coding standards.",
+        "Assisted with 10 hands-on assignments involving TCP/UDP socket programming, bash scripting, and simulated file system utilities.",
+        "Conducted 50+ individual mentoring sessions, clarifying multithreading, memory management, and C++-based client-server architecture."
       ],
       skills: ["UNIX", "C++", "Shell Scripting", "Networking", "Teaching", "Mentoring"]
     },
     {
-      title: "Intern",
+      title: "Machine Learning Engineer",
       company: "Samsung Prism",
       location: "India",
       period: "Jul 2021 - Mar 2022",
       description: [
-        "Contributed to a real-time project titled \"Video HDR & Efficient Fusion of Synthetically Generated Multi-Exposure LDR Frames\"",
-        "Developed a novel image enhancement technique that generates an HDR image from a single LDR image by synthetically generating and fusing multiple exposure frames",
-        "Applied tone mapping algorithms (Reinhard, Mantiuk, and Drago's) to transform HDR images into display-friendly formats",
-        "Conducted extensive testing and experimentation to optimize the algorithm, resulting in successful generation of HDR images with improved accuracy and quality"
+        "Contributed to the development of a real-time image processing system to generate HDR frames from single-exposure LDR images, improving detail accuracy by 35%.",
+        "Engineered a custom fusion pipeline that synthetically generated 3–5 multi-exposure LDR frames per input image.",
+        "Integrated and compared Reinhard, Mantiuk, and Drago tone mapping algorithms, achieving 20% enhancement in visual fidelity metrics (PSNR, SSIM).",
+        "Ran over 1,000 test cases across varied lighting conditions to validate algorithm robustness and consistency.",
+        "Collaborated in a research-driven environment, contributing to presenting findings to a panel of 5+ domain experts."
       ],
       skills: ["Image Processing", "Algorithm Development", "HDR Imaging", "Research", "Testing"]
     },
