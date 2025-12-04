@@ -48,11 +48,13 @@ const Hero: React.FC = () => {
         Sravya Koyi
       </h1>
       <h2 className="text-xl md:text-2xl text-gray-700 font-medium mb-6">
-        Aspiring Software Engineer
+        Software Engineer at Walgreens
       </h2>
       <p className="text-gray-600 mb-8 max-w-lg">
-        I'm a Computer Science graduate from Northern Illinois University, passionate about 
-        building efficient software solutions and exploring emerging technologies.
+        I’m a Software Engineer at Walgreens, where I design, build, and optimize scalable 
+        software solutions that support critical pharmacy technology systems. I’m passionate 
+        about creating reliable, high-impact applications, improving system efficiency, and 
+        continuously exploring emerging technologies to enhance product performance and user experience.
       </p>
 
       {/* Buttons */}
