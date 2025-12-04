@@ -224,7 +224,7 @@ const Contact: React.FC = () => {
                 Current Availability
               </h4>
               <p className="text-gray-700">
-                I’m currently open to new opportunities that align with my skills and career growth. While I’m working as a Software Engineer at Walgreens, I’m open to exploring better opportunities that help me grow, innovate, and contribute at a larger scale.
+                I’m currently open to new opportunities that align with my skills and career growth. I’m open to exploring better opportunities that help me grow, innovate, and contribute at a larger scale.
               </p>
             </div>
           </div>
