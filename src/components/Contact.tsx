@@ -41,7 +41,7 @@ const Contact: React.FC = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Get In Touch</h2>
           <p className="text-gray-600 max-w-lg mx-auto">
-            I'm currently looking for new opportunities and would love to hear from you. Feel free to reach out if you have a question or just want to connect.
+            I’m always open to meaningful conversations whether you’d like to connect, collaborate, or dive deeper into technology. Feel free to reach out if you want to discuss ideas, explore opportunities, or simply say hello!
           </p>
         </div>
         
@@ -224,7 +224,7 @@ const Contact: React.FC = () => {
                 Current Availability
               </h4>
               <p className="text-gray-700">
-                I'm currently open to job opportunities and collaborative projects. My expected graduation is in May 2025, and I'm available for full-time positions starting June 2025.
+                I’m currently open to new opportunities that align with my skills and career growth. While I’m working as a Software Engineer at Walgreens, I’m open to exploring better opportunities that help me grow, innovate, and contribute at a larger scale.
               </p>
             </div>
           </div>
