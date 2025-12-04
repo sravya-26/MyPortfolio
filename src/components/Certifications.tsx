@@ -7,9 +7,9 @@ const Certifications: React.FC = () => {
     {
       title: "Google Cloud Certified Associate Cloud Engineer",
       issuer: "Google Cloud",
-      date: "Aug 2022",
+      date: "Aug 2025",
       description: "Validates the ability to deploy applications, monitor operations, and maintain cloud projects on Google Cloud Platform",
-      link: "https://www.credential.net/2d278bc5-9bff-4f92-81a3-06157f0bc8ff#acc.E0L5AXNP",
+      link: "https://www.credly.com/earner/earned/badge/d3bcf2f7-0b70-469e-b9e0-7b88c756a970",
       //image: "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg",
       //image: "/gcp.png",
       //image: "public/gcp.png",
@@ -36,16 +36,16 @@ const Certifications: React.FC = () => {
       //image: "/ServiceNow.png",
       badgeColor: "green"
     },
-    {
-      title: "Aviatrix Certified Engineer - Multicloud Network Associate",
-      issuer: "Aviatrix",
-      date: "Nov 2022",
-      description: "Validates knowledge of multicloud networking architecture, capabilities, and operational best practices",
-      link: "https://www.credly.com/badges/7fad3665-5153-4993-9cb2-8fc8c28a4255",
-      //image: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
-      image: "/Aviatrix.png",
-      badgeColor: "purple"
-    },
+    // {
+    //   title: "Aviatrix Certified Engineer - Multicloud Network Associate",
+    //   issuer: "Aviatrix",
+    //   date: "Nov 2022",
+    //   description: "Validates knowledge of multicloud networking architecture, capabilities, and operational best practices",
+    //   link: "https://www.credly.com/badges/7fad3665-5153-4993-9cb2-8fc8c28a4255",
+    //   //image: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+    //   image: "/Aviatrix.png",
+    //   badgeColor: "purple"
+    // },
     {
       title: "Certified Network Security Practitioner (CNSP)",
       issuer: "Network Security Institute",
