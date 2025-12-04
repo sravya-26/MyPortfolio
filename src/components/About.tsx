@@ -17,13 +17,13 @@ const About: React.FC = () => {
           <div className="bg-gray-50 p-8 rounded-lg shadow-sm border border-gray-100">
             <h3 className="text-xl font-semibold text-gray-800 mb-6">Who I Am</h3>
             <p className="text-gray-600 mb-4">
-              With a strong academic foundation and a growing portfolio of projects, I’m excited to transition from student to contributor in the tech industry. I’m Sravya Koyi, a recent CS graduate ready to tackle real-world challenges through innovative software development.
+              My journey began in India, where I built a strong foundation in Computer Science and Engineering during my bachelor’s degree, graduating with a GPA of 9.3/10. That passion for technology brought me to the United States, where I completed my Master’s in Computer Science at Northern Illinois University with a GPA of 3.87/4, focusing on software development engineering.
             </p>
             <p className="text-gray-600 mb-4">
-              My academic journey began in India, where I earned my Bachelor's degree in Computer Science and Engineering with a GPA of 9.3/10. Currently, I'm pursuing my Master's degree with a focus on machine learning and software development, maintaining a strong GPA of 3.85/4.
+              Today, I’m a Software Engineer at Walgreens, contributing to large-scale, high-impact systems within the Pharmacy Technology domain. With hands-on experience in building, testing, and improving software solutions, I thrive in fast-paced, collaborative environments where I can solve real-world problems through clean code, automation, and thoughtful engineering.
             </p>
             <p className="text-gray-600">
-              Beyond academics, I'm enthusiastic about applying my technical skills to solve real-world problems and contribute to innovative projects. I believe in continuous learning and staying updated with the latest industry trends and technologies.
+              Driven by curiosity and a commitment to continuous growth, I’m dedicated to creating reliable, efficient, and scalable software while always staying excited about exploring emerging technologies and pushing my technical boundaries.
             </p>
           </div>
           
@@ -107,7 +107,7 @@ const About: React.FC = () => {
                 </svg>
               </div>
               <h4 className="font-medium text-gray-800 mb-2">Creative Exploration</h4>
-              <p className="text-gray-600">I enjoy blending tech with creativity — whether it's designing clean UI layouts, editing videos, or experimenting with aesthetic portfolio designs.</p>
+              <p className="text-gray-600">I enjoy blending tech with creativity. Whether it's designing clean UI layouts, editing videos, or experimenting with aesthetic portfolio designs.</p>
             </div>
           </div>
         </div>
