@@ -20,7 +20,7 @@ const About: React.FC = () => {
               My journey began in India, where I built a strong foundation in Computer Science and Engineering during my bachelor’s degree, graduating with a GPA of 9.3/10. That passion for technology brought me to the United States, where I completed my Master’s in Computer Science at Northern Illinois University with a GPA of 3.87/4, focusing on software development engineering.
             </p>
             <p className="text-gray-600 mb-4">
-              Today, I’m a Software Engineer at Walgreens, contributing to large-scale, high-impact systems within the Pharmacy Technology domain. With hands-on experience in building, testing, and improving software solutions, I thrive in fast-paced, collaborative environments where I can solve real-world problems through clean code, automation, and thoughtful engineering.
+              Today, I’m a Software Engineer at WBA, contributing to large-scale, high-impact systems within the Pharmacy Technology domain. With hands-on experience in building, testing, and improving software solutions, I thrive in fast-paced, collaborative environments where I can solve real-world problems through clean code, automation, and thoughtful engineering.
             </p>
             <p className="text-gray-600">
               Driven by curiosity and a commitment to continuous growth, I’m dedicated to creating reliable, efficient, and scalable software while always staying excited about exploring emerging technologies and pushing my technical boundaries.
