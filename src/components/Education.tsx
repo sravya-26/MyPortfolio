@@ -9,7 +9,7 @@ const Education: React.FC = () => {
       institution: "Northern Illinois University",
       location: "DeKalb, IL",
       period: "Aug 2023 - May 2025",
-      gpa: "GPA: 3.85/4",
+      gpa: "GPA: 3.87/4",
       description: "Focused on advanced areas including machine learning, data structures, algorithms, and software development methodologies.",
       courses: ["Advanced Algorithms", "Machine Learning", "Database Systems", "Network Security", "Distributed Systems"]
     },
@@ -17,7 +17,7 @@ const Education: React.FC = () => {
       degree: "Bachelor of Technology, Computer Science and Engineering",
       institution: "Koneru Lakshmaiah Education Foundation (KLEF)",
       location: "India",
-      period: "Jul 2019 - Mar 2023",
+      period: "Jul 2019 - May 2023",
       gpa: "GPA: 9.3/10",
       description: "Built a strong foundation in computer science fundamentals, programming, and software engineering principles.",
       courses: ["Data Structures & Algorithms", "Operating Systems", "Database Management", "Computer Networks", "Web Technologies"]
